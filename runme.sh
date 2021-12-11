@@ -1,6 +1,6 @@
 #!/bin/sh
 
-sudo apt install git gcc g++ gdb binutils build-essential qemu-system-x86 xorriso grub-pc grub-common mtools texinfo flex bison wget curl apache2 libapache2-mod-php \
+sudo apt install git gcc g++ gdb binutils build-essential qemu-system-x86 xorriso grub-pc grub-common mtools nasm texinfo flex bison wget curl apache2 libapache2-mod-php \
 mariadb-server mariadb-client php7.4-bz2 php7.4-cli php7.4-common php7.4-curl php7.4-mysql php7.4-readline php7.4-xml php7.4-zip php7.4-mbstring php7.4-opcache \
 php7.4-phpdbg php7.4-xdebug docker
 
